@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
 
 3. npm start
 
-###Open http://localhost:3000 to view the app in your browser.
+### Open http://localhost:3000 to view the app in your browser.
 
 ## Built With
 - React
